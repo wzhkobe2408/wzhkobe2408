@@ -4,5 +4,5 @@
 
 - 🔭 I'm currently working on web development
 - 📚 I'm currently learning vscode extension 😺
-- 🎲 I want to spend more time on opensource and life
+- 🎲 I want to spend more time on opensource
 - 🌟 Hoping be happy
